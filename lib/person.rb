@@ -1,5 +1,5 @@
 # your code goes here
-class person
+class Person
     attr_accessor :bank_account
     attr_reader :name, :happiness, :hygiene
 
